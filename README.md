@@ -22,7 +22,8 @@ n <& m          | 将输入文件m 和 n 合并
 ### 1.2 文件描述符
 * 标准输入standard input 0 (默认设备键盘)     stdin    对应/dev/stdin
 * 标准输出standard output 1 (默认设备显示器)  stdout   对应/dev/stdout
-* 错误输出：error output 2 (默认设备显示器)   stderr   对应/dev/stderr
+* 错误输出：error output 2 (默认设备显示器)   stderr   对应/dev/stderr  
+
 实操：  
 ![image](https://github.com/tianyalu/NeShellRedirection/blob/master/show/redirection_command.png) 
 
